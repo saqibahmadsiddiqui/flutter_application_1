@@ -1,6 +1,6 @@
-# flutter_application_1
+# Travel App Semester Project
 
-A new Flutter project.
+A travel app Flutter project of Mobile App Development lab of 6th semester
 
 ## Getting Started
 
